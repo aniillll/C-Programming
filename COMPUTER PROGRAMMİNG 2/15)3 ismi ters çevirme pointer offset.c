@@ -3,7 +3,7 @@
  void reverse(char *arr,int size);
  main()
  {
- char a[]="salak busra";
+ char a[]="ahmet";
  int SIZE;
  SIZE=strlen(a);
  printf("before \n");
